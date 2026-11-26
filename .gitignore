@@ -1,0 +1,12 @@
+# Arduino / STM32 build outputs
+**/build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
